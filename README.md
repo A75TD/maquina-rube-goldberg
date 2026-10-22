@@ -1,7 +1,7 @@
 # Máquina de Rube Goldberg - Unity
 
-Taller 1 (Unity básico y motor de físicas) - Univalle Sede Tuluá.
-Autor: Albert (trabajo individual)
+Taller 1 (Unity básico y motor de físicas) - Univalle Sede cali.
+Autor: Jesus Alberto Tunubala Dagua
 
 ## ¿Qué es?
 Una reacción en cadena hecha con el motor de físicas de Unity. Consiste en una esfera que cae, detona una fila de fichas de dominó, la última ficha cae en una rampa y rueda hasta una caja Meta que activa una celebración con partículas.
